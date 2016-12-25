@@ -1,11 +1,15 @@
 package chapters19;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Consumer;
+
 /**
  * @author by kissx on 2016/12/22.
  */
 public class 快捷键 {
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("");
         //Alt + Enter   给我一个惊喜
         //Ctrl + C      复制
@@ -39,7 +43,7 @@ public class 快捷键 {
         Consumer<String> println = System.out::println;
         list.forEach(println);
 
-    }*/
+    }
 
 
 }
