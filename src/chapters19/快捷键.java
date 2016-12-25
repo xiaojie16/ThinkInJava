@@ -43,6 +43,8 @@ public class 快捷键 {
         Consumer<String> println = System.out::println;
         list.forEach(println);
 
+        System.out.println("测试新建一个分支");
+
     }
 
 
